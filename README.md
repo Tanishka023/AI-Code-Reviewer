@@ -24,3 +24,5 @@ code-reviewer/
 │   ├── public/
 │   └── vite.config.js
 └── README.md
+<img width="1871" height="955" alt="image" src="https://github.com/user-attachments/assets/b0bd0601-ceb8-4e0e-a760-700c9b1f2459" />
+
