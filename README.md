@@ -1,4 +1,4 @@
-# 🔍 Code Reviewer
+# 🔍 AI-Code Reviewer
 
 A lightning-fast web app to review code snippets using Google's AI APIs, built with **Vite + React**.
 
